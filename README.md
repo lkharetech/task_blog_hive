@@ -5,7 +5,7 @@ Flutter Blog App with Hive API
 This is a Flutter application that fetches blog posts from the Hive.Blog API and displays them in a list.
 
 # Please find below the link for localhost screenshot
-
+![localhost_screenshot_blog_hive](https://github.com/user-attachments/assets/d84ee9b4-58f8-44b6-a38f-e8eeb2939844)
 
 # Features:
 
